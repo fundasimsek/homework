@@ -1,4 +1,1 @@
-# homework
-funda
-
-#R dersi için notlar seçilmiştir
+# R dersi için notlar seçilmiştir
